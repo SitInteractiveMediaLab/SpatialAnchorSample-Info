@@ -1,99 +1,99 @@
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">プライバシーポリシー</font></font>**
+**Privacy Policy**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">このプライバシーポリシーは、モバイルデバイス向けアプリ「SpatialAnchorSample」およびInteractive Media Labが運営する関連サービス（総称して「アプリケーション」）に適用されます。Interactive Media Labは、以下「サービスプロバイダー」と称します。</font></font>
+This privacy policy applies to the SpatialAnchorSample app for mobile devices, together with any related services operated by Interactive Media Lab (collectively, the "Application"). Interactive Media Lab is hereby referred to as the "Service Provider".
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">情報収集と利用</font></font>**
+**Information Collection and Use**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションは、ダウンロードおよび使用時に情報を収集します。この情報には、次のような情報が含まれる場合があります。</font></font>
+The Application collects information when you download and use it. This information may include information such as
 
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">お使いのデバイスのインターネットプロトコルアドレス</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">お客様がアクセスしたアプリケーションのページ、アクセス日時、各ページでの滞在時間</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションに費やした時間</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">あなたが使用しているモバイルオペレーティングシステム</font></font>
+*   Your device's Internet Protocol address
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   your mobile operating system you use
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">クッキーとトラッキング技術</font></font>**
+**Cookies and tracking technologies**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">本アプリケーションまたはそのサードパーティSDKは、機能、分析、またはサービス提供をサポートするために、Cookie、SDK、ピクセル、および類似の技術を使用する場合があります。適用される法律で義務付けられている場合、サービスプロバイダーは、必須ではない追跡技術を使用する前に同意を得ます。</font></font>
+The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">あなたの権利</font></font>**
+**Your Rights**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">お客様は、サービスプロバイダーが保有するお客様の個人データへのアクセス、訂正、または削除を要求することができます。これらの権利を行使する場合、または同意に基づいて処理が行われている場合において同意を撤回する場合は、サービスプロバイダー（imlab0508@gmail.com）までご連絡ください。</font></font>
+You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at imlab0508@gmail.com.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">カリフォルニア州におけるプライバシー権（CCPA/CPRA）</font></font>**
+**Your California privacy rights (CCPA/CPRA)**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">カリフォルニア州にお住まいの方は、収集される個人情報の内容を知る権利、個人情報を削除する権利、個人情報の販売または共有を拒否する権利、およびこれらの権利を行使したことによる差別を受けない権利を有します。CCPA/CPRAに基づく権利を行使するには、サービスプロバイダー（imlab0508@gmail.com）までご連絡ください。</font></font>
+If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at imlab0508@gmail.com.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービス提供者は、お客様から提供された情報を使用して、重要な情報、必要な通知、および法律で許可されている場合はマーケティング関連の連絡を送信することがあります。</font></font>
+The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションをより快適にご利用いただくため、サービスプロバイダーは、imlab0508@gmail.comを含む（ただしこれに限定されない）特定の個人情報の提供を求める場合があります。サービスプロバイダーが要求する情報は、本プライバシーポリシーに記載されているとおりに保持および使用されます。</font></font>
+For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information, including but not limited to imlab0508@gmail.com. The information the Service Provider requests will be retained and used as described in this privacy policy.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">第三者アクセス</font></font>**
+**Third Party Access**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービスプロバイダーがアプリケーションおよびサービスを改善するために、集計され匿名化されたデータのみが定期的に外部サービスに送信されます。サービスプロバイダーは、本プライバシーポリシーに記載されている方法で、お客様の情報を第三者と共有する場合があります。</font></font>
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">国際データ転送</font></font>**
+**International Data Transfers**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービス提供者またはその第三者サービス提供者は、お客様の居住国以外の国（欧州経済領域（EEA）外を含む）に個人データを転送する場合があります。適用法で国際的なデータ転送に関する保護措置が義務付けられている場合、サービス提供者は適切な仕組みを使用します。</font></font>
+The Service Provider or its third-party service providers may transfer personal data to countries outside your country of residence, including outside the European Economic Area (EEA). Where applicable law requires safeguards for international transfers, the Service Provider will use appropriate mechanisms.
 
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">欧州委員会が承認した標準契約条項（SCC）</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">十分性決定またはその他の法的に認められた移転メカニズム</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">必要に応じて、また法律で認められている場合は、お客様の同意が必要です。</font></font>
+*   Standard Contractual Clauses (SCCs) approved by the European Commission
+*   Adequacy decisions or other legally recognized transfer mechanisms
+*   Your consent, where required and legally permitted
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">他国のデータ保護法は、お客様の管轄区域の法律とは異なる場合があります。法律で義務付けられている場合、サービスプロバイダーは適切な保護措置を講じ、データ転送に必要な同意を取得します。</font></font>
+Data protection laws in other countries may differ from those in your jurisdiction. Where required by law, the Service Provider will apply appropriate safeguards and obtain any consent required for the transfer.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービスプロバイダーは、ユーザー提供情報および自動収集情報を開示する場合があります。</font></font>
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">召喚状や同様の法的手続きに従うなど、法律で義務付けられている場合。</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">開示が自身の権利を守るため、あなたや他者の安全を守るため、詐欺を調査するため、または政府の要請に応じるために必要であると誠実に信じる場合。</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">顧客は、顧客に代わって業務を行う信頼できるサービスプロバイダーと情報を共有し、サービスプロバイダーが開示する情報を独自に使用することはなく、このプライバシーに関する声明に定められた規則を遵守することに同意している。</font></font>
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information the Service Provider discloses to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">オプトアウト権</font></font>**
+**Opt-Out Rights**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションをアンインストールすることで、モバイルデバイスからの情報収集を停止できます。アンインストールすると、アプリケーションによるデバイスからのデータ収集は停止しますが、既にサービスプロバイダーまたは第三者に送信された情報は自動的に削除されません。</font></font>
+You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">個人データの削除を依頼する場合、同意を撤回する場合、またはその他の権利を行使する場合は、サービスプロバイダー（imlab0508@gmail.com）までご連絡ください。</font></font>
+To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at imlab0508@gmail.com.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">データ保持ポリシー</font></font>**
+**Data Retention Policy**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービス提供者は、明示された目的のために必要な範囲で個人データを保持します。</font></font>
+The Service Provider retains personal data based on its necessity for the stated purposes:
 
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">ユーザー提供データ：アプリケーションの使用期間に加え、その後12か月間保持されます。ただし、法律でより長期間の保持が義務付けられている場合はこの限りではありません。</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">自動収集データ：収集日から最長24か月間保持されます。ただし、法的遵守のためにそれ以上の保持が必要な場合は除きます。</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">集計および匿名化されたデータ：もはや個人を特定できないため、無期限に保持されます。</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">法令遵守に必要なデータ：適用法で定められた期間保持されます。</font></font>
+*   User Provided Data: Retained for the duration of your use of the Application plus 12 months thereafter, unless longer retention is required by law
+*   Automatically Collected Data: Retained for up to 24 months from collection, unless longer retention is required for legal compliance
+*   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
+*   Data required for legal compliance: Retained as long as required by applicable law
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">お客様は、法的義務により個人データを保持する必要がある場合を除き、個人データの削除を要求することができます。サービスプロバイダーがアプリケーションを通じて送信したユーザー提供データを削除することを希望する場合は、imlab0508@gmail.comまでご連絡ください。なお、アプリケーションが正常に機能するためには、一部のユーザー提供データが必要となる場合がありますのでご注意ください。</font></font>
+You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at imlab0508@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">子供たち</font></font>**
+**Children**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">本アプリケーションは、16歳未満のお子様、または適用法で定められたそれ以上の年齢のお子様を対象としていません。サービス提供者は、お子様から意図的にデータを収集したり、お子様向けに本アプリケーションを販売したりすることはありません。</font></font>
+The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービスプロバイダーは、子供から個人を特定できる情報を意図的に収集することはありません。サービスプロバイダーは、すべての子供に対し、アプリケーションおよび/またはサービスを通じて個人を特定できる情報を決して送信しないよう推奨します。サービスプロバイダーは、保護者および法定後見人に対し、子供のインターネット利用状況を監視し、許可なくアプリケーションおよび/またはサービスを通じて個人を特定できる情報を提供しないよう子供に指導することで、本ポリシーの遵守に協力するよう推奨します。子供がアプリケーションおよび/またはサービスを通じてサービスプロバイダーに個人を特定できる情報を提供したと思われる場合は、サービスプロバイダー</font></font><span><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">（imlab0508@gmail.com）</font></font></span><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">にご連絡ください。必要な措置を講じます。16歳未満の場合は、法律で認められている範囲で、保護者または法定後見人があなたに代わって同意する必要があります。</font></font>
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourages parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider <span>(imlab0508@gmail.com)</span> so that they will be able to take the necessary actions. If you are under 16 years of age, your parent or guardian must provide consent on your behalf where permitted by law.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">安全</font></font>**
+**Security**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービス提供者は、お客様の情報の機密性を保護することに尽力しています。サービス提供者は、処理および保管する情報を保護するために、物理的、電子的、および手続き上の安全対策を講じています。</font></font>
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">データ漏洩通知</font></font>**
+**Data Breach Notification**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">お客様の個人データに影響を与えるデータ侵害が発生した場合、サービスプロバイダーは、適用される法的要件に従ってお客様に通知します。これには、必要に応じて、侵害の内容およびそれに対処するために講じられている措置に関する情報の提供が含まれます。</font></font>
+If a data breach occurs that affects your personal data, the Service Provider will notify you in accordance with applicable legal requirements, including, where required, providing information about the nature of the breach and the steps being taken to address it.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">変更点</font></font>**
+**Changes**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービス提供者は、本プライバシーポリシーを随時更新することがあります。サービス提供者は、重要な変更があった場合は、更新されたプライバシーポリシーを有効日とともに掲載することにより、お客様に通知します。法律で義務付けられている場合、サービス提供者は、重要な変更が有効になる前に、お客様の同意を求めます。</font></font>
+The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">本プライバシーポリシーの以前のバージョンは保管されており、サービスプロバイダー（imlab0508@gmail.com）にご連絡いただければ、ご要望に応じて提供いたします。</font></font>
+Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at imlab0508@gmail.com.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">このプライバシーポリシーは2026年6月15日より有効です。</font></font>
+This privacy policy is effective as of 2026-06-15
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">お客様の同意</font></font>**
+**Your Consent**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">処理が同意に基づいている場合、お客様は該当する機能またはアクションに積極的にオプトインすることで同意を提供します。お客様はいつでも同意を撤回できますが、撤回前に実施された処理には影響しません。その他の法的根拠に基づく処理は、上記のとおり実施されます。</font></font>
+Where processing is based on consent, you provide that consent by affirmatively opting in to the relevant feature or action. You may withdraw consent at any time without affecting processing carried out before withdrawal. Processing based on other lawful bases is carried out as described above.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">お問い合わせ</font></font>**
+**Contact Us**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションの使用におけるプライバシーに関するご質問、または運用方法に関するご質問がある場合は、サービスプロバイダーまでメール（imlab0508@gmail.com）でお問い合わせください。</font></font>
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at imlab0508@gmail.com.
 
 * * *
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">このプライバシーポリシーページは、</font></font>[<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリプライバシーポリシージェネレーターによって生成されました。</font></font>](https://app-privacy-policy-generator.nisrulz.com/)
+This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
